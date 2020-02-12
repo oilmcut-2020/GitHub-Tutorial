@@ -16,6 +16,11 @@ In GitHub, you will be known by your username. So, it has to be unique.
 Once you press Sign up for GitHub button, you will be prompted to verify that you are not a robot.
 Verify Account: "mail which is sent by github to your mail-id".
 
+### Sign in again to check :
+<p align="center">
+  <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/master/images/git2.png">
+</p>
+
 ### Choosing a GitHub Account Plan
 Once you have verified your identity, you can choose the GitHub plan you want to subscribe for.
 For this tutorial and in general as a beginner, GitHub Free plan is more than enough.
