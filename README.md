@@ -5,7 +5,7 @@ This is for beginner to know what is Git, GitHub, and how to use GitHub.
 Setting your GitHub account is easy and very simple. To set the account visit GitHub’s official website.
 The login form will appear on the same page. Fill out the form with your details to create an account on GitHub.
 <p align="center">
-  <img src="https://github.com/oilmcut-2020/Basic-Linux-Commands/blob/master/.png">
+  <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/master/images/git1.png">
 </p>
 
 **Note** :GitHub will warn you if there are any duplicate entries i.e. if that username is already taken by some other individual
@@ -20,12 +20,12 @@ Verify Account: "mail which is sent by github to your mail-id".
 Once you have verified your identity, you can choose the GitHub plan you want to subscribe for.
 For this tutorial and in general as a beginner, GitHub Free plan is more than enough.
 <p align="center">
-  <img src="https://github.com/oilmcut-2020/Basic-Linux-Commands/blob/master/.png">
+  <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/master/images/git3.png">
 </p>
 
 ### GitHub Account Dashboard
 <p align="center">
-  <img src="https://github.com/oilmcut-2020/Basic-Linux-Commands/blob/master/.png">
+  <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/master/images/git4.png">
 </p>
 
 1.GitHub Repositories
