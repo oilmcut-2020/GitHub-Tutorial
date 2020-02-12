@@ -12,8 +12,8 @@ The login form will appear on the same page. Fill out the form with your details
 or not etc. Along with the error, GitHub will suggest you the available attributes also. For example, your username could be duplicate because whatever you are thinking as your username, might have been
 already taken by someone else. 
 In GitHub, you will be known by your username. So, it has to be unique. 
-Once you press Sign up for GitHub button, you will be prompted to verify that you are not a robot.
 
+Once you press Sign up for GitHub button, you will be prompted to verify that you are not a robot.
 Verify Account: "mail which is sent by github to your mail-id".
 
 ### Choosing a GitHub Account Plan
@@ -31,18 +31,10 @@ For this tutorial and in general as a beginner, GitHub Free plan is more than en
 1.GitHub Repositories
 2.GitHub Feed
 3.GitHub Discover Repositories
-
 These are briefed in the below section but these will be discussed in detail in the upcoming tutorials.
-GitHub Repositories
-
+- GitHub Repositories:
 GitHub repositories section will contain all the repositories on which the user is working. For the ease, one can just toggle between these repositories and start working on them again.
-
- 
-GitHub Feed
-
+- GitHub Feed:
 GitHub feed contains an individual’s feed like other social networks. You can see the recent activities on your repositories and the activities of the people you follow. This feed will contain all private and public repositories activities. Private repositories may include the repositories on which the organization is working or created by the user himself.
-
- 
-GitHub Discover Repositories
-
+- GitHub Discover Repositories:
 This section is newly introduced by GitHub on the dashboard. In this section, a person will be able to see some repositories which match his interests. If you are not working on any repository, you can always explore the repositories through this section and build your reputation on GitHub.
