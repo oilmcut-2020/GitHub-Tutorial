@@ -1,6 +1,7 @@
 # GitHub-Tutorial
 
-HI.. New branch named "readme-changes"
+*Managed by- Shivani Baldwa
+Email: baldwashivani@gmail.com
 
 This is for beginner to know what is Git, GitHub, and how to use GitHub.
 
@@ -78,7 +79,7 @@ Congratulations, your repository is successfully created! It will look like the 
 
 ## STEP 2:Create Branches
 
-Branching: Branches help you to work on different versions of a repository at one time. If you want to add a new feature nd you are afraid at the same time whether to make changes to your main project or not. This is where git branching comes to rescue. Branches allow you to move back and forth between the different states/versions of a project. 
+**Branching:** Branches help you to work on different versions of a repository at one time. If you want to add a new feature nd you are afraid at the same time whether to make changes to your main project or not. This is where git branching comes to rescue. Branches allow you to move back and forth between the different states/versions of a project. 
 <p align="center">
   <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/readme-changes/images/masterbranch.png">
 </p>
@@ -96,15 +97,17 @@ To create a branch in GitHub, follow the below steps:
 Once you have created a new branch, you have two branches in your repository now i.e. read-me (master branch) and readme- changes. The new branch is just the copy of master branch. So let’s perform some changes in our new branch and make it look different from the master branch.
 
 ### How to use GitHub: Operations
-Commit Command:
+
+#### Commit Command:
+
 This operation helps you to save the changes in your file. When you commit a file, you should always provide the message.
 These commit messages maintain the history of changes which in turn help other contributors to understand the file better. Now let’s make our first commit, follow the below steps:
 
-    Click on “readme- changes” file which we have just created.
-    Click on the “edit” or a pencil icon in the righmost corner of the file.
-    Once you click on that, an editor will open where you can type in the changes or anything.  
-    Write a commit message which identifies your changes.
-    Click commit changes in the end. 
+- Click on “readme- changes” file which we have just created.
+- Click on the “edit” or a pencil icon in the righmost corner of the file.
+- Once you click on that, an editor will open where you can type in the changes or anything.  
+- Write a commit message which identifies your changes.
+- Click commit changes in the end. 
 Refer to the below screenshot for better understanding:   
 <p align="center">
   <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/readme-changes/images/readme%20edit.png">
@@ -112,3 +115,52 @@ Refer to the below screenshot for better understanding:
   
  We have successfully made our first commit. Now this “readme- changes” file is different from the master branch. 
  
+ #### Pull Command
+ 
+Pull command is the most important command in GitHub. It tell the changes done in the file and request other contributors to view it as well as merge it with the master branch. Once the commit is done, anyone can pull the file and can start a discussion over it. Once its all done, you can merge the file. Pull command compares the changes which are done in the file and if there are any conflicts, you can manually resolve it.
+Different steps involved to pull request in GitHub.
+
+- Click the ‘Pull requests’ tab.
+- Click ‘New pull request’.
+- Once you click on pull request, select the branch and click ‘readme- changes’ file to view changes between the two files present in our repository.
+- Click “Create pull request”.
+- Enter any title, description to your changes and click on “Create pull request”. Refer to the below screenshots.
+ <p align="center">
+  <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/master/images/pull-request.png">
+</p>  
+
+Next, let us move forward and see how can you merge your pull request.
+
+#### Merge Command
+
+Here comes the last command which merge the changes into the main master branch. We saw the changes in pink and green color, now let’s merge the “readme- changes” file with the master branch/ read-me. Go through the below steps to merge pull request.
+
+- Click on “Merge pull request” to merge the changes into master branch.
+- Click “Confirm merge”.
+- You can delete the branch once all the changes have been incorporated and if there are no conflicts. Refer to the below screenshots.
+ <p align="center">
+  <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/master/images/merge-pull.png">
+</p>  
+
+## STEP 3:Cloning and Forking GitHub Repository 
+**Cloning:** Suppose you want to use some code which is present in a public repository, you can directly copy the contents by cloning or downloading.
+<p align="center">
+  <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/master/images/clone.png">
+</p>
+Cloning is really simple!
+
+**Forking:** Suppose, you need some code which is present in a public repository, under your repository and GitHub account. For this, we need to fork a repository. 
+Before we get started with forking, there are some important points which you should always keep in mind.
+- Changes done to the original repository will be reflected back to the forked repository.
+- If you make a change in forked repository, it will not b reflected to the original repository until and unless you have made a pull request.
+
+Now let’s see how can you want to fork a repository. For that, follow the below steps:
+Go to Explore and search for public repositories.
+Click “fork”. Note that this “librealsense-odometry” repository is already forked 2 times.
+<p align="center">
+  <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/master/images/fork.png">
+</p>
+
+As soon as you click on “Fork”, it will take some time to fork the repository. Once done you will notice that the repository name is under your account.
+
+*That's all for this tutorial, I hope you enjoyed it and got to understand "HOW TO ISE GITHUB".
