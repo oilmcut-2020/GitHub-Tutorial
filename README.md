@@ -1,4 +1,7 @@
 # GitHub-Tutorial
+
+HI.. New branch named "readme-changes"
+
 This is for beginner to know what is Git, GitHub, and how to use GitHub.
 
 ## Setting Up GitHub Account
