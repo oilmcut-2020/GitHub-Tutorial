@@ -1,7 +1,8 @@
 # GitHub-Tutorial
+ 
+**Managed by- Shivani Baldwa
 
-*Managed by- Shivani Baldwa
-Email: baldwashivani@gmail.com
+Email: baldwashivani@gmail.com**
 
 This is for beginner to know what is Git, GitHub, and how to use GitHub.
 
@@ -37,9 +38,9 @@ For this tutorial and in general as a beginner, GitHub Free plan is more than en
   <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/master/images/dashboard.png">
 </p>
 
-1.GitHub Repositories
-2.GitHub Feed
-3.GitHub Discover Repositories
+- GitHub Repositories
+- GitHub Feed
+- GitHub Discover Repositories
 
 These are briefed in the below section but these will be discussed in detail in the upcoming tutorials.
 - GitHub Repositories:
@@ -59,6 +60,7 @@ GitHub is a central repository and Git is a tool which allows you to create a lo
 
 ## STEP 1: Creating a GitHub Repository
 A repository is a storage space where your project lives. It can be local to a folder on your computer, or it can be a storage space on GitHub  or another online host. You can keep code files, text files, images or any kind of a file in a repository. You need a GitHub repository when you have done some changes and are ready to be uploaded. This GitHub repository acts as your remote repository. So let me make your task easy, just follow these simple steps to create a GitHub repository: 
+
 - Go to the link: https://github.com/ . Fill the sign up form and click on “Sign up for Github” 
 - Click on “Start a new project”.
 
@@ -137,7 +139,7 @@ Here comes the last command which merge the changes into the main master branch.
 
 - Click on “Merge pull request” to merge the changes into master branch.
 - Click “Confirm merge”.
-- You can delete the branch once all the changes have been incorporated and if there are no conflicts. Refer to the below screenshots.
+- You can delete the branch once all the changes have been incorporated and if there are no conflicts. Refer to the below screenshot.
  <p align="center">
   <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/master/images/merge-pull.png">
 </p>  
@@ -147,6 +149,7 @@ Here comes the last command which merge the changes into the main master branch.
 <p align="center">
   <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/master/images/clone.png">
 </p>
+
 Cloning is really simple!
 
 **Forking:** Suppose, you need some code which is present in a public repository, under your repository and GitHub account. For this, we need to fork a repository. 
@@ -163,4 +166,4 @@ Click “fork”. Note that this “librealsense-odometry” repository is alrea
 
 As soon as you click on “Fork”, it will take some time to fork the repository. Once done you will notice that the repository name is under your account.
 
-*That's all for this tutorial, I hope you enjoyed it and got to understand "HOW TO ISE GITHUB".
+##### That's all for this tutorial, I hope you enjoyed it and got to understand "HOW TO USE GITHUB".
