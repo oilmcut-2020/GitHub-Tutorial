@@ -73,5 +73,39 @@ Congratulations, your repository is successfully created! It will look like the 
   <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/master/images/git6.png">
 </p>
 
+## STEP 2:Create Branches
 
+Branching: Branches help you to work on different versions of a repository at one time. If you want to add a new feature nd you are afraid at the same time whether to make changes to your main project or not. This is where git branching comes to rescue. Branches allow you to move back and forth between the different states/versions of a project. 
+<p align="center">
+  <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/readme-changes/images/masterbranch.png">
+</p>
 
+As depicted in the above image, there is a master/ production branch which has a new branch for testing. Under this branch, two set of changes are done and once it completed, it is merged back to the master branch.
+
+To create a branch in GitHub, follow the below steps:
+
+- Click on the dropdown “Branch: master”
+- As soon as you click on the branch, you can find an existing branch or you can create a new one. In my case, I am creating a new branch with a name “readme-changes”. Refer to the below screenshot for better understanding.
+<p align="center">
+  <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/readme-changes/images/newbranch.png">
+</p>
+
+Once you have created a new branch, you have two branches in your repository now i.e. read-me (master branch) and readme- changes. The new branch is just the copy of master branch. So let’s perform some changes in our new branch and make it look different from the master branch.
+
+### How to use GitHub: Operations
+Commit Command:
+This operation helps you to save the changes in your file. When you commit a file, you should always provide the message.
+These commit messages maintain the history of changes which in turn help other contributors to understand the file better. Now let’s make our first commit, follow the below steps:
+
+    Click on “readme- changes” file which we have just created.
+    Click on the “edit” or a pencil icon in the righmost corner of the file.
+    Once you click on that, an editor will open where you can type in the changes or anything.  
+    Write a commit message which identifies your changes.
+    Click commit changes in the end. 
+Refer to the below screenshot for better understanding:   
+<p align="center">
+  <img src="https://github.com/oilmcut-2020/GitHub-Tutorial/blob/readme-changes/images/readme%20edit.png">
+</p>  
+  
+ We have successfully made our first commit. Now this “readme- changes” file is different from the master branch. 
+ 
