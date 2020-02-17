@@ -1,7 +1,6 @@
 # GitHub-Tutorial
  
 **Managed by- Shivani Baldwa** 
-**Email: baldwashivani@gmail.com**
 
 This is for beginner to know what is Git, GitHub, and how to use GitHub.
 
